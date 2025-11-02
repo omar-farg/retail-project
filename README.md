@@ -40,7 +40,9 @@ This page summarize overall performance
 * **Visuals:** A (`Table`) that gives detailed insights about every country and total amount of each product , (`Pie chart`) about sum of quantity between countries , (`Stacked bar chart`) between countries and catagories
 
   ## 🏁 Conclusion:
-This projects 
+Using Cloud Services this project turns raw data to usfel insights by Azure Data Factory, Azure Databricks, and Azure Data Lake Storage.
+
+The final result is 2 pages Power BI that turns complex data into usfel insights. 
 
   ## 👤 Author:
   Omar Farg
