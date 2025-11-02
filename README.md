@@ -26,4 +26,21 @@ data is cleaned (handling nulls, correcting types) and tables was joined
 data is organized in 2 tables (summary gold, products gold) working on top contries for fast response
 
 ## Data visualize
+Using Microsoft Power BI the final report contains 2 pages summarizing data to visual insights
 
+### Page 1:Summary of financial and geographical performance
+This page summarize overall performance
+
+* **KPIs:**Total amount ,total products count , store name.
+* **Visuals:** A geographical map (`Map`) for Total amount, (`Pie chart`) for total count of products , (`Clustered Column chart`) for some by store name and quantity of products
+
+### Page 2:Analysis of country with products
+ 
+* **KPIs:**Total quantity by country ,total amount , sum of price. 
+* **Visuals:** A (`Table`) that gives detailed insights about every country and total amount of each product , (`Pie chart`) about sum of quantity between countries , (`Stacked bar chart`) between countries and catagories
+
+  ## 🏁 Conclusion:
+This projects 
+
+  ## 👤 Author:
+  Omar Farg
