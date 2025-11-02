@@ -12,7 +12,7 @@ A data engineering project that contain making a data pipeline using Microsoft A
 ## 🏗️ Data Pipeline:
 <img width="2551" height="956" alt="image (1)" src="https://github.com/user-attachments/assets/3d04a445-af60-484e-8201-46b197b46ca8" />
 
-# 1.Collecting Data
+### 1.Collecting Data
 Collecting raw data from source tables (stores, products, and transactions) then storing them in Azure Data Lake Storage (Gen2) using Azure Data Factory (ADF)
 this raw data labeled as bronze layer.
 
@@ -22,3 +22,4 @@ this raw data labeled as bronze layer.
 Using pyspark in Azure Databricks to process data
 data is cleaned (handling nulls, correcting types) and tables was joined
 
+### 3.
