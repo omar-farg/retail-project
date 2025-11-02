@@ -1,5 +1,5 @@
 # retail-project
-
+A data engineering project that contain making a data pipeline using Microsoft Azure services and visualize this data using Microsoft Power BI and get useful insight from it >
 
 ## 🛠️ Tools:
 
