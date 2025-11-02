@@ -16,3 +16,8 @@ Collecting raw data from source tables (stores, products, and transactions) then
 this raw data labeled as bronze layer.
 
 <img width="992" height="724" alt="ADF Pipeline" src="https://github.com/user-attachments/assets/d9db0100-d1f3-4324-92b3-b04bcb0b998e" />
+
+# 2.Data processing
+Using pyspark in Azure Databricks to process data
+data is cleaned (handling nulls, correcting types) and tables was joined>
+
