@@ -34,10 +34,16 @@ This page summarize overall performance
 * **KPIs:**Total amount ,total products count , store name.
 * **Visuals:** A geographical map (`Map`) for Total amount, (`Pie chart`) for total count of products , (`Clustered Column chart`) for some by store name and quantity of products
 
+<img width="1157" height="726" alt="image" src="https://github.com/user-attachments/assets/f41e4c1f-4c7e-4b44-94fc-0fe9ca583d82" />
+
+
 ### Page 2:Analysis of country with products
  
 * **KPIs:**Total quantity by country ,total amount , sum of price. 
 * **Visuals:** A (`Table`) that gives detailed insights about every country and total amount of each product , (`Pie chart`) about sum of quantity between countries , (`Stacked bar chart`) between countries and catagories
+
+* <img width="1163" height="727" alt="image" src="https://github.com/user-attachments/assets/683a824c-a4e8-4935-a587-4ffa79d2bd3f" />
+
 
   ## 🏁 Conclusion:
 Using Cloud Services this project turns raw data to usfel insights by Azure Data Factory, Azure Databricks, and Azure Data Lake Storage.
