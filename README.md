@@ -19,5 +19,5 @@ this raw data labeled as bronze layer.
 
 # 2.Data processing
 Using pyspark in Azure Databricks to process data
-data is cleaned (handling nulls, correcting types) and tables was joined>
+data is cleaned (handling nulls, correcting types) and tables was joined
 
